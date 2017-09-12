@@ -1,0 +1,16 @@
+*{
+	font-family:sans-serif;
+}
+body{
+	background-image:url(http://www.sciencealert.com/images/stories/Evgeny-Dubinchuk_rockpaperscissors_shutterstock_.jpg);
+	background-size:cover;
+}
+
+.game{
+	text-align: center;
+	background-color:pink;
+	height:250px;
+	border-radius:20px;
+	border: 1px solid grey;
+	margin-top:100px;
+}
